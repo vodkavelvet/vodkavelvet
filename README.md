@@ -29,8 +29,8 @@ I'm passionate about solving programming challenges and ensuring smooth, immersi
 <td valign="text-top">Exterminator is a fast-paced shooter game that puts you in the role of a hero battling swarms of enemies. With intense levels and challenging gameplay, the game offers thrilling moments and tests your reflexes. Its action-packed sequences and vibrant design keep players engaged throughout.</td>
 </tr> 
 <tr> 
-<td align="center"><a href="github.com/vodkavelvet/Hockey-pong-2d">Read More</a></td> 
-<td align="center"><a href="github.com/vodkavelvet/exterminator">Read More</a></td> 
+<td align="center"><a href="https://github.com/vodkavelvet/Hockey-pong-2d-">Read More</a></td> 
+<td align="center"><a href="https://github.com/vodkavelvet/exeterminator">Read More</a></td> 
 </tr> 
 <tr> 
 <td align="center"><a href="#">Trailer</a></td> 
@@ -62,8 +62,8 @@ I'm passionate about solving programming challenges and ensuring smooth, immersi
 <td valign="text-top">Ice Side Scroll is a 2D game inspired by the enchanting world of ice. Players navigate through a frosty landscape filled with dynamic challenges and obstacles. The stunning icy visuals and smooth mechanics immerse you in a world of endless snow and adventure, bringing a cool twist to the classic side-scrolling genre.</td>
 </tr> 
 <tr> 
-<td align="center"><a href="github.com/vodkavelvet/RingColor">Read More</a></td> 
-<td align="center"><a href="github.com/vodkavelvet/ice-sideScroll">Read More</a></td> 
+<td align="center"><a href="https://github.com/vodkavelvet/RingColor">Read More</a></td> 
+<td align="center"><a href="https://github.com/vodkavelvet/ice-sideScroll">Read More</a></td> 
 </tr> 
 <tr> 
 <td align="center"><a href="#">Trailer</a></td> 
